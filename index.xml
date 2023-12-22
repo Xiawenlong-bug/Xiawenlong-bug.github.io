@@ -1,16 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My New Hugo Site</title>
-        <link>https://xiawenlong-bug.github.io/</link>
+        <link>https://Xiawenlong-bug.github.io/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 21 Dec 2023 23:12:20 &#43;0800</lastBuildDate>
-            <atom:link href="https://xiawenlong-bug.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://Xiawenlong-bug.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>First_post</title>
-    <link>https://xiawenlong-bug.github.io/posts/first_post/</link>
+    <link>https://Xiawenlong-bug.github.io/posts/first_post/</link>
     <pubDate>Thu, 21 Dec 2023 23:12:20 &#43;0800</pubDate>
     <author>xxxx</author>
-    <guid>https://xiawenlong-bug.github.io/posts/first_post/</guid>
+    <guid>https://Xiawenlong-bug.github.io/posts/first_post/</guid>
     <description><![CDATA[cool ]]></description>
 </item>
 </channel>
